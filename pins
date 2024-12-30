@@ -1,5 +1,6 @@
 {
-  "1234": { "duration": "1 week" },
-  "5678": { "duration": "1 month" }
+  "1200": { "duration": "1 week" },
+  "5678": { "duration": "1 month" },
+  "91011": { "duration": "1 year" }
 }
 
